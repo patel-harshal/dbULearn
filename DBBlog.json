@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "https://firebasestorage.googleapis.com/v0/b/udemy-admin21.appspot.com/o/infotech.png?alt=media&token=d6e616e3-8dff-4db0-9b83-950636f9e2a4",
+        "link": "https://infotechnologyxyz.blogspot.com/"
+    },
+    {
+        "id": 2,
+        "image": "https://firebasestorage.googleapis.com/v0/b/udemy-admin21.appspot.com/o/github.png?alt=media&token=e940d94e-52d8-4ce9-a304-172cb4bde980",
+        "link": "https://patel-harshal.github.io/"
+    },
+    {
+        "id": 3,
+        "image": "https://firebasestorage.googleapis.com/v0/b/udemy-admin21.appspot.com/o/install.png?alt=media&token=d8ccd5b9-849c-456b-bea7-1a95b011bc09",
+        "link": "https://installersw.blogspot.com/"
+    },
+    {
+        "id": 4,
+        "image": "https://firebasestorage.googleapis.com/v0/b/udemy-admin21.appspot.com/o/free.png?alt=media&token=62e8fc9e-b540-4d84-a5f3-c0bbe2ab092d",
+        "link": "https://foryourcourse.blogspot.com/"
+    }
+]
