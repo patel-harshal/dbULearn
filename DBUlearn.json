@@ -40,5 +40,33 @@
     "image": "https://img-c.udemycdn.com/course/240x135/931384_3a37_2.jpg",
     "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhacking-complete%2F",
     "des": "Gain the knowledge hackers use to compromise systems and use it to protect your own!"
+  },
+  {
+    "id": 6,
+    "name": "The Complete Ethical Hacking Course for 2016/2017!",
+    "image": "https://img-c.udemycdn.com/course/240x135/931384_3a37_2.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhacking-complete%2F",
+    "des": "Gain the knowledge hackers use to compromise systems and use it to protect your own!"
+  },
+  {
+    "id": 7,
+    "name": "Build an Advanced Keylogger using C++ for Ethical Hacking!",
+    "image": "https://img-c.udemycdn.com/course/240x135/760210_7215_2.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-create-an-advanced-keylogger-from-scratch-for-windows%2F",
+    "des": "Take this course to learn how to code a fully functional keylogger in C++ for use in Windows!"
+  },
+  {
+    "id": 8,
+    "name": "Amazon Web Services (AWS) Certified - 4 Certifications!",
+    "image": "https://img-c.udemycdn.com/course/240x135/1047846_83ef_29.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-associate-architect-developer-sysops-admin%2F",
+    "des": "Videos, labs & practice exams - AWS Certified (Solutions Architect, Developer, SysOps Administrator, Cloud Practitioner)"
+  },
+  {
+    "id": 9,
+    "name": "AWS Serverless APIs & Apps - A Complete Introduction",
+    "image": "https://img-c.udemycdn.com/course/240x135/1241254_9cc1.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-serverless-a-complete-introduction%2F",
+    "des": "Get into serverless computing with API Gateway, AWS Lambda and other Amazon Web Services! Zero server config APIs & SPAs"
   }
 ]
