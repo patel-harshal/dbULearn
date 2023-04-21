@@ -12,5 +12,33 @@
     "image": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_16.jpg",
     "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F",
     "des": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps"
+  },
+  {
+    "id": 3,
+    "name": "Complete Ethical Hacking Bootcamp 2023: Zero to Mastery",
+    "image": "https://img-c.udemycdn.com/course/240x135/3291970_afb5_2.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-ethical-hacking-bootcamp-zero-to-mastery%2F",
+    "des": "Learn Ethical Hacking + Penetration Testing! Use real techniques by black hat hackers then learn to defend against them!"
+  },
+  {
+    "id": 4,
+    "name": "Learn Ethical Hacking: Beginner to Advanced",
+    "image": "https://img-c.udemycdn.com/course/240x135/2231800_f1d7_4.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fethical-hacking-kali-linux%2F",
+    "des": "Learn ethical hacking, penetration testing and network security skills with our comprehensive course!"
+  },
+  {
+    "id": 5,
+    "name": "Hacking For Beginners",
+    "image": "https://img-c.udemycdn.com/course/240x135/1577450_1fe9.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhacking-for-beginners%2F",
+    "des": "This is how this course will guide to into your first hack in two hours!You want to learn hacking but you don't know where to start? Then this is the course for you. Hacking for beginners course requires zero experience, zero programming knowledge and zero Linux knowledge. We start with the assumption that you know nothing about hacking, networks or the web. And step by step we will build up your knowledge so you can perform you first hack in two hours!"
+  },
+  {
+    "id": 6,
+    "name": "The Complete Ethical Hacking Course for 2016/2017!",
+    "image": "https://img-c.udemycdn.com/course/240x135/931384_3a37_2.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhacking-complete%2F",
+    "des": "Gain the knowledge hackers use to compromise systems and use it to protect your own!"
   }
 ]
