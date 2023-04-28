@@ -1,52 +1,32 @@
 [
     {
         "id": 1,
-        "image": "https://m.media-amazon.com/images/I/41p1cRZGtaL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
-        "link": "https://amzn.to/3TOz2fd"
+        "image": "https://m.media-amazon.com/images/I/61Hl+qLbLBL._AC_UL320_.jpg",
+        "link": "https://amzn.to/4484aev"
     },
     {
         "id": 2,
-        "image": "https://m.media-amazon.com/images/I/514cSQ0O9OL._SX376_BO1,204,203,200_.jpg",
-        "link": "https://amzn.to/3lLNIzm"
+        "image": "https://m.media-amazon.com/images/I/710v59ixsEL._AC_UL320_.jpg",
+        "link": "https://amzn.to/3VgT3vW"
     },
     {
         "id": 3,
-        "image": "https://m.media-amazon.com/images/I/51CxmVYKYsL._SX329_BO1,204,203,200_.jpg",
-        "link": "https://amzn.to/42J5Ieo"
+        "image": "https://m.media-amazon.com/images/I/81MQxZWmXWL._AC_UL320_.jpg",
+        "link": "https://amzn.to/3Njy9tW"
     },
     {
         "id": 4,
-        "image": "https://m.media-amazon.com/images/I/51OOCVBfCQL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
-        "link": "https://amzn.to/3THYZNC"
+        "image": "https://m.media-amazon.com/images/I/91-9a5ksfnL._AC_UL320_.jpg",
+        "link": "https://amzn.to/3VfU33h"
     },
     {
         "id": 5,
-        "image": "https://m.media-amazon.com/images/I/41tu0IAOp-L._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
-        "link": "https://amzn.to/3lAIpmk"
+        "image": "https://m.media-amazon.com/images/I/71pjU7wfZFL._AC_UL320_.jpg",
+        "link": "https://amzn.to/3ndeukO"
     },
     {
         "id": 6,
-        "image": "https://m.media-amazon.com/images/I/41sbWdpTgRL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
-        "link": "https://amzn.to/40no9n9"
-    },
-    {
-        "id": 7,
-        "image": "https://m.media-amazon.com/images/I/41NFtdgGMtL._SX361_BO1,204,203,200_.jpg",
-        "link": "https://amzn.to/42JlKog"
-    },
-    {
-        "id": 8,
-        "image": "https://m.media-amazon.com/images/I/518csN6TPsL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
-        "link": "https://amzn.to/3JIrIxf"
-    },
-    {
-        "id": 9,
-        "image": "https://m.media-amazon.com/images/I/51bffNVIcmL._SX385_BO1,204,203,200_.jpg",
-        "link": "https://amzn.to/3FOCeC0"
-    },
-    {
-        "id": 10,
-        "image": "https://m.media-amazon.com/images/I/518Ll05mBAL._SX386_BO1,204,203,200_.jpg",
-        "link": "https://amzn.to/3z69KzK"
+        "image": "https://m.media-amazon.com/images/I/51YzETHVMPL._AC_UL320_.jpg",
+        "link": "https://amzn.to/3n6vs4q"
     }
 ]
