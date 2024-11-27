@@ -68,5 +68,33 @@
     "image": "https://img-c.udemycdn.com/course/240x135/1241254_9cc1.jpg",
     "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-serverless-a-complete-introduction%2F",
     "des": "Get into serverless computing with API Gateway, AWS Lambda and other Amazon Web Services! Zero server config APIs & SPAs"
+  },
+  {
+    "id": 10,
+    "name": "ChatGPT Masterclass: The Ultimate Beginner's Guide!",
+    "image": "https://img-c.udemycdn.com/course/240x135/5222454_f62c.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fchatgpt-masterclass-the-ultimate-beginners-guide%2F",
+    "des": "ChatGPT: Your New Secret Weapon for Productivity, Passive Income, and Personal Growth"
+  },
+  {
+    "id": 11,
+    "name": "The Complete AI-Powered Copywriting Course & ChatGPT Course",
+    "image": "https://img-c.udemycdn.com/course/240x135/3600048_b195_20.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcontent-marketing-course-%2F%3FcouponCode%3DBFCPSALE24",
+    "des": "Become a Pro Copywriter with the Complete Copywriting and Content Marketing Course. Use ChatGPT. Get 70+ Pro Templates."
+  },
+  {
+    "id": 12,
+    "name": "ChatGPT & Midjourney & Gemini: Digital Marketing Assistants",
+    "image": "https://img-c.udemycdn.com/course/240x135/5231088_b1e8_2.jpg",
+    "link": "https://click.linksynergy.com/deeplink?id=3zJST*nwhE4&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fchatgpt-digital-marketing%2F",
+    "des": "Ultimate ChatGPT, MJ, Gemini course for digital marketers. Gain a grasp of AI to delegate your marketing activities."
+  },
+  {
+    "id": 13,
+    "name": "Mastering SEO With ChatGPT: Ultimate Beginner's Guide",
+    "image": "https://img-c.udemycdn.com/course/240x135/5672302_cfed.jpg",
+    "link": "https://zireemilsoude.net/4/8162709",
+    "des": "Learn how to supercharge your SEO efforts with the help of AI-powered tool"
   }
 ]
